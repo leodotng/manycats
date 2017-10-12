@@ -1,4 +1,4 @@
-##USER STORY
+# USER STORY
 
 Manycats is an agile build approach to a cats profile page of a pet adoption agency.
 
@@ -17,8 +17,8 @@ As a user I want to be able to see the age of each cat.
 As a user I want to be able to read about the personality of each cat.
 
 
-##Firebase Deploy
+# Firebase Deploy
 [Manycats https://manycats-4aef0.firebaseapp.com](https://manycats-4aef0.firebaseapp.com)
 
-##Start Stop Continue
+# Start Stop Continue
 ![Start Stop Continue](https://github.com/leodotng/manycats/blob/master/startstopcontinue.pn ?raw=true)
