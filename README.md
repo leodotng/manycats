@@ -21,4 +21,4 @@ As a user I want to be able to read about the personality of each cat.
 [Manycats https://manycats-4aef0.firebaseapp.com](https://manycats-4aef0.firebaseapp.com)
 
 # Start Stop Continue
-![Start Stop Continue](https://github.com/leodotng/manycats/blob/master/startstopcontinue.pn ?raw=true)
+![Start Stop Continue](https://raw.githubusercontent.com/leodotng/manycats/master/startstopcontinue.png)
